@@ -13,3 +13,4 @@ Ez is egy commit test hehe, változásokat nézem.
 ## bruh
 
 Megint ezt csináltuk, conflict cucc
+### conflict
