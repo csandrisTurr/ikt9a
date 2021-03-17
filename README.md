@@ -15,3 +15,5 @@ Megint ezt csináltuk, conflict cucc >>>>>>>> } Ez conflict test
 ### conflict                        >
 
 pull és push egyszerre azaz merge
+
+nem akar működni a github pls menj márrrr
