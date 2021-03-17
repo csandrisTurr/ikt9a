@@ -9,3 +9,5 @@ a
 ## helo
 
 Ez is egy commit test hehe, változásokat nézem.
+
+### conflict
