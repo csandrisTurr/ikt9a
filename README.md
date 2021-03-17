@@ -10,9 +10,9 @@ a
 
 Ez is egy commit test hehe, változásokat nézem.
 
-## bruh                             >
+### bruh >
 Megint ezt csináltuk, conflict cucc >>>>>>>> } Ez conflict test
-### conflict                        >
+### conflict >
 
 pull és push egyszerre azaz merge
 
