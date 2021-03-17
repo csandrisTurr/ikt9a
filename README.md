@@ -1,5 +1,9 @@
-# ikt9a
-test test
+# IKT 9.A Test
+- Első óra: test test
+- Második óra: testtest marc17
 
+# Többi cucc
 
-testtest marc17
+a
+
+## helo
